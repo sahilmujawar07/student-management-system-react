@@ -1,0 +1,11 @@
+.app-container {
+  min-height: 100vh;
+  background-color: #f8f9fa;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .app-container {
+    padding: 15px;
+  }
+}
